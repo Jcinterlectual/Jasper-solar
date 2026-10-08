@@ -1,0 +1,9 @@
+{
+  "name": "jasper-solar-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jasper Solar World storefront",
+  "scripts": {
+    "start": "node backend.js"
+  }
+}

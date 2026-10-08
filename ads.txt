@@ -1,0 +1,2 @@
+# Add the Google AdSense seller record from the approved publisher account before serving ads.
+# Do not replace this with a sample or guessed publisher ID.
